@@ -1,4 +1,3 @@
-#### BASHRC VERSION 2.0 ####
 #### Configuration du prompt ####
 PS1='\[\e[38;5;114;1m\]\u\[\e[0m\]@\[\e[38;5;114;1m\]\h\[\e[0m\]:\[\e[38;5;114m\]\w\\$\[\e[0m\] '
 
